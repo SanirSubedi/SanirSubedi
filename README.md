@@ -28,9 +28,9 @@ ICT & Robotics student at HAMK focusing on the intersection of AI, robotics, and
 
 **🤖 [Dobot MG400 Automation](https://github.com/SanirSubedi/HandsOnWith-DOBOT)** - Industrial robot programming with trajectory planning and rotational transformations
 
-**📚 [LLM Book Recommender]** - Hybrid recommendation system using collaborative filtering and semantic search (270K+ records)
+**📚 LLM Book Recommender(On-Going)** - Hybrid recommendation system using collaborative filtering and semantic search (270K+ records)
 
-**🌐 [IoT Greenhouse System](** - MQTT-based automation with sensor-driven motor control
+**🌐 IoT Greenhouse System** - MQTT-based automation with sensor-driven motor control
 
 **🤖 [RPA Automation Suite](https://github.com/SanirSubedi/Robotic-Process-Automation)** - End-to-end workflow automation with 90% time reduction
 
