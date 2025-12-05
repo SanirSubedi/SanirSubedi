@@ -20,7 +20,7 @@ ICT & Robotics student at HAMK focusing on the intersection of AI, robotics, and
 **Robotics:** ROS2 • Raspberry Pi • Dobot • Betaflight  
 **IoT:** MQTT • Node-RED • SPI/I2C  
 **Tools:** Git • Linux • Azure • Docker
-**Databases:**  SQL DBMS • ER Diagrams • Normalization • Relational Schema  
+**Databases:** SQL DBMS • ER Diagrams • Normalization • Relational Schema  
 
 ---
 
